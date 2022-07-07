@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\bin\Debug\net6.0\dz6.exe
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\bin\Debug\net6.0\dz6.deps.json
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\bin\Debug\net6.0\dz6.runtimeconfig.json
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\bin\Debug\net6.0\dz6.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\bin\Debug\net6.0\dz6.pdb
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.AssemblyInfo.cs
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\refint\dz6.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.pdb
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\dz6.genruntimeconfig.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha4\public001\dz4\public002\dz6\obj\Debug\net6.0\ref\dz6.dll
